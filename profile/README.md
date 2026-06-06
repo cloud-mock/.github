@@ -2,7 +2,7 @@
 
 [![Documentation](https://img.shields.io/static/v1?label=Documentation&message=public&color=green)](https://cloud-mock.github.io/cloud-mock)
 [![Maven Central](https://img.shields.io/static/v1?label=Maven+Central&message=io.github.cloud-mock&color=blue)](https://central.sonatype.com/namespace/io.github.cloud-mock)
-[![License](https://img.shields.io/github/license/cloud-mock/cloud-mock)](https://github.com/cloud-mock/.github/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/cloud-mock/cloud-mock)](https://github.com/cloud-mock/cloud-mock/blob/main/LICENSE)
 
 In-process AWS mocking for the JVM. No Docker. No external process. No configuration.
 
