@@ -1,23 +1,18 @@
-# CloudMock
+# Contributing to CloudMock
 
-[![Documentation](https://img.shields.io/static/v1?label=Documentation&message=public&color=green)](https://cloud-mock.github.io/cloud-mock)
-[![Maven Central](https://img.shields.io/static/v1?label=Maven+Central&message=io.github.cloud-mock&color=blue)](https://central.sonatype.com/namespace/io.github.cloud-mock)
-[![License](https://img.shields.io/github/license/cloud-mock/cloud-mock)](https://github.com/cloud-mock/cloud-mock/blob/main/LICENSE)
+## Where to open issues
 
-In-process AWS mocking for the JVM. No Docker. No external process. No configuration.
+- [cloud-mock](https://github.com/cloud-mock/cloud-mock/issues) — core framework, modules, codegen
+- [cloudmock-cli](https://github.com/cloud-mock/cloudmock-cli/issues) — CLI tool
+- [cloudmock-console](https://github.com/cloud-mock/cloudmock-console/issues) — web UI
 
-CloudMock runs entirely inside the JVM, starts in milliseconds, and loads only the service
-modules your project declares as dependencies. Drop it in, write your test, run it.
+## Before you open a PR
 
-## Repositories
+- Check the open issues for the relevant repository
+- For new modules, read the [module authoring guide](https://cloud-mock.github.io/cloud-mock)
+- For bug fixes, include a failing test that demonstrates the issue
+- For new features, open an issue first to discuss before writing code
 
-| Repository | Description |
-|---|---|
-| [cloud-mock](https://github.com/cloud-mock/cloud-mock) | Core framework, service modules, codegen |
-| [cloudmock-cli](https://github.com/cloud-mock/cloudmock-cli) | CLI tool — `clm` |
-| [cloudmock-console](https://github.com/cloud-mock/cloudmock-console) | Web UI for standalone mode |
+## Code of conduct
 
-## Contributing
-
-If a module you need doesn't exist yet, you can build it.
-See the [module authoring guide](https://cloud-mock.github.io/cloud-mock) to get started.
+Be respectful. Focus on the work.
