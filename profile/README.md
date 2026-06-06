@@ -6,6 +6,11 @@
 
 In-process AWS mocking for the JVM. No Docker. No external process. No configuration.
 
+CloudMock is an open source AWS mock framework for the JVM. It intercepts AWS SDK calls
+and returns realistic responses without connecting to AWS, running a container, or starting
+an external process. Each AWS service is an independent module — add only what you need,
+nothing more loads.
+
 CloudMock runs entirely inside the JVM, starts in milliseconds, and loads only the service
 modules your project declares as dependencies. Drop it in, write your test, run it.
 
