@@ -18,7 +18,7 @@ modules your project declares as dependencies. Drop it in, write your test, run 
 
 | Repository | Description |
 |---|---|
-| [cloud-mock](https://github.com/cloud-mock/cloud-mock) | Core framework, service modules, codegen |
+| [cloudmock](https://github.com/cloud-mock/cloud-mock) | Core framework, service modules, codegen |
 | [cloudmock-cli](https://github.com/cloud-mock/cloudmock-cli) | CLI tool — `clm` |
 | [cloudmock-console](https://github.com/cloud-mock/cloudmock-console) | Web UI for standalone mode |
 
