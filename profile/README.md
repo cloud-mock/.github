@@ -16,11 +16,11 @@ modules your project declares as dependencies. Drop it in, write your test, run 
 
 ## Repositories
 
-| Repository | Description |
-|---|---|
-| [cloudstub](https://github.com/cloudstub/cloudstub) | Core framework, service modules, codegen |
-| [cloudstub-cli](https://github.com/cloudstub/cloudstub-cli) | CLI tool — `clm` |
-| [cloudstub-console](https://github.com/cloudstub/cloudstub-console) | Web UI for standalone mode |
+| Repository                                                          | Description                              |
+|---------------------------------------------------------------------|------------------------------------------|
+| [cloudstub](https://github.com/cloudstub/cloudstub)                 | Core framework, service modules, codegen |
+| [cloudstub-cli](https://github.com/cloudstub/cloudstub-cli)         | CLI tool — `clm`                         |
+| [cloudstub-console](https://github.com/cloudstub/cloudstub-console) | Web UI for standalone mode               |
 
 ## Contributing
 
