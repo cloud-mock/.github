@@ -4,7 +4,7 @@
 
 Be respectful. Focus on the work. Assume good intent.
 
-CloudMock is a technical project. Interactions should stay constructive and professional
+CloudStub is a technical project. Interactions should stay constructive and professional
 whether you are reporting a bug, reviewing a PR, asking a question, or disagreeing on
 a design decision.
 
@@ -23,8 +23,8 @@ a design decision.
 
 ## Scope
 
-This code of conduct applies to all CloudMock repositories, issues, pull requests,
-and any other space where CloudMock project work happens.
+This code of conduct applies to all CloudStub repositories, issues, pull requests,
+and any other space where CloudStub project work happens.
 
 ## Enforcement
 
