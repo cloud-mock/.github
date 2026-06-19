@@ -14,13 +14,6 @@ nothing more loads.
 CloudStub runs entirely inside the JVM, starts in milliseconds, and loads only the service
 modules your project declares as dependencies. Drop it in, write your test, run it.
 
-## Repositories
-
-| Repository                                                  | Description                              |
-|-------------------------------------------------------------|------------------------------------------|
-| [cloudstub](https://github.com/cloudstub/cloudstub)         | Core framework, service modules, codegen |
-| [cloudstub-cli](https://github.com/cloudstub/cloudstub-cli) | CLI tool — `clm`                         |
-
 ## Contributing
 
 If a module you need doesn't exist yet, you can build it.
